@@ -34,3 +34,9 @@ To run the code in this repository, the following dependencies are required:
 
 ## Conclusion
 This repository provides a comprehensive guide and code for conducting Exploratory Data Analysis (EDA) and Sentiment Analysis on Twitter data. By following the steps outlined in the notebook, you can gain valuable insights into the dataset and understand the sentiment expressed in the tweets. Feel free to adapt the code to your specific needs, explore additional analyses, and contribute to further enhancements of the project.
+
+## License
+This repository is licensed under the MIT License.
+
+## Contact
+For any questions, suggestions, or issues, feel free to contact the repository maintainer at chris13angelid@gmail.com
